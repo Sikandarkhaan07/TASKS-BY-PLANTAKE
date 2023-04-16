@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.live_video_bg.app-mergeDebugResources-11:/values-km/values-km.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Sikandar Khan\\.gradle\\caches\\transforms-3\\000495a36b3e150e859a1575fbb3029c\\transformed\\jetified-exoplayer-core-2.18.5\\res\\values-km\\values-km.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,126,185,251,320,393,464,562,657",
+                        "endColumns": "70,58,65,68,72,70,97,94,68",
+                        "endOffsets": "121,180,246,315,388,459,557,652,721"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Sikandar Khan\\.gradle\\caches\\transforms-3\\bde9ac5e8d2b9c869ff7f009ec9e5b99\\transformed\\core-1.7.0\\res\\values-km\\values-km.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "11",
+                        "startColumns": "4",
+                        "startOffsets": "726",
+                        "endColumns": "100",
+                        "endOffsets": "822"
+                    }
+                }
+            ]
+        }
+    ]
+}
